@@ -22,3 +22,4 @@ print("Is it leass or equal?",5<=-2)
 
 + 什么是浮点数？
 [浮点数](https://baike.baidu.com/item/%E6%B5%AE%E7%82%B9%E6%95%B0)
+0.5，0.05...
